@@ -1,0 +1,19 @@
+{
+  "name": "mongo-tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "./node_modules/.bin/cubejs-dev-server"
+  },
+  "dependencies": {
+    "@cubejs-backend/mongobi-driver": "^0.10.16",
+    "@cubejs-backend/server": "^0.10.21",
+    "@cubejs-client/core": "^0.10.16",
+    "@cubejs-client/react": "^0.10.16",
+    "bootstrap": "^4.3.1",
+    "moment": "^2.24.0",
+    "numeral": "^2.0.6",
+    "reactstrap": "^8.0.1",
+    "recharts": "^1.7.0"
+  }
+}
