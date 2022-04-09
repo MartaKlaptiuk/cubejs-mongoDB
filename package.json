@@ -11,7 +11,7 @@
     "@cubejs-client/core": "^0.10.16",
     "@cubejs-client/react": "^0.10.16",
     "bootstrap": "^4.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "numeral": "^2.0.6",
     "reactstrap": "^8.0.1",
     "recharts": "^1.7.0"
